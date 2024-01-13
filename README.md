@@ -1,5 +1,5 @@
 # kimetsu-ichimatsu
-canvasで市松模様を描くスクリプト
+canvasで市松模様を描くスクリプト。画面幅に応じて描画計算をするレスポンシブデザイン。
 
 ## 参考サイト
 * [平方根を計算する](https://www.javadrive.jp/javascript/math_class/index16.html)
